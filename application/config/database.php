@@ -2,15 +2,11 @@
 
 defined('BASEPATH') or exit('No direct script access allowed');
 
-// $host_database = '127.0.0.1' ;
-// $host_port = 3306 ;
-// $userdb = "teguh" ;
-// $passdb = "teguh" ;
-
-$host_database = '36.91.190.25' ;
+$host_database = '127.0.0.1' ;
 $host_port = 3306 ;
 $userdb = "teguh" ;
-$passdb = "teguhs@1234569" ;
+$passdb = "teguh" ;
+
 
 $active_group = 'default';
 $query_builder = TRUE;
